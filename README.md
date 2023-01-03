@@ -6,8 +6,6 @@ I made this core for my server HyperiumMC before and now its closed so the core 
 - 19132
 
 # Which server is using some features of this core
-- OSMY Network
-- OSMY Practice
-- OceanPractice
+- OSMY Network(Skid Server)
 
 All the assets was removed. Dont Skid
