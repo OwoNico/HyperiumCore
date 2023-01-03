@@ -9,3 +9,5 @@ I made this core for my server HyperiumMC before and now its closed so the core 
 - OSMY Network
 - OSMY Practice
 - OceanPractice
+
+All the assets was removed. Dont Skid
